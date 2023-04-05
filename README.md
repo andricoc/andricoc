@@ -26,7 +26,7 @@ I am a Data scientist  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - 💬 Ask me about anything 
 - 📫 How to reach me: 
   - :email: : ricocahyadi777@gmail.com
-  - :telephone_receiver: 	🇸🇬: +65 98928630
+  - :telephone_receiver: 	🇸🇬: +65 9892 8630
   - :telephone_receiver: 	🇮🇩: +62 856 6889 1688
 
 ---
