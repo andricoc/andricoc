@@ -18,14 +18,14 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Data scientist  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> x Financial analyst :heavy_dollar_sign: from Indonesia.
+I am a Data scientist  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> x Financial analyst <img src="https://media.giphy.com/media/jHeeduJFSSzXPqan2w/giphy.gif" width="20"> from Indonesia.
 - :construction: I’m currently working on my own website
 - :ok_man: I’m currently learning Frontend Web Development using React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="15"/>
 - 👯 I’m looking to collaborate on any tech/data/finance related work
 - 🤔 I’m looking for help finding jobs in Singapore
 - 💬 Ask me about anything 
 - 📫 How to reach me: 
-  - :email: : ricocahyadi777@gmail.com
+  - :email: : ricocahyadi777.dev@gmail.com
   - :telephone_receiver: 	🇸🇬: +65 9892 8630
   - :telephone_receiver: 	🇮🇩: +62 856 6889 1688
 
